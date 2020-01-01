@@ -22,4 +22,6 @@ The Modules include:
 ### DATAQUEST GUIDED PROJECTS
 
 Link on the PROJECTS by Dataquest learning platform. 
-[Repo](https://github.com/TrishalaBasti/DQ-Guidedprojects)
+
+
+[Repository](https://github.com/TrishalaBasti/DQ-Guidedprojects)
