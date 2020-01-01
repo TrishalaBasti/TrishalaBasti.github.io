@@ -1,35 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to MY work in GITHUB
 
-anython
+About my work in Data Science and Machine Learning. 
 
-### ELU projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ELU PROJECTS
 
-```markdown
-Syntax highlighted code block
+##### These projects are done as part of my studentship with European Leadership University.
+The projects are module specific which focuses on specific outcomes in the learning course.
+The Modules include:
 
-# Header 1
-## Header 2
-### Header 3
+**Python Basics**
+**Data Visualization**
+**Data Cleaning and Data Exploration**
+**SQL for Data Science**
+**Statistics for Data Science**
+**Machine Learning**
+**Deep Learning**
+**Neural Networks**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### DATAQUEST GUIDED PROJECTS
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TrishalaBasti/TrishalaBasti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link on the PROJECTS by Dataquest learning platform. 
+[Repo](https://github.com/TrishalaBasti/DQ-Guidedprojects)
